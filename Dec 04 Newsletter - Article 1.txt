@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=2GzkgPC-CdT7O0Hkvzf6BosZJFNcvHD7HROgDHCBt600YauAJAddfDr1sWHaVagNNWgQ2dTM51Mei0AhldC7WMMG8uCzxJXulxR7Iz78mqEU0mpYQ_OF3Z31PrJzpR3V_J1yn9c_Te8mTk96VphHoOJA0K8QyjPT33tM-s730ReE7-3VXDRMhXvDuAqAmqKSSfDOYO52zpXz45KA5ub4zcwQwcyeOIucfDGSY-SzofzD_ASAd_SRIsYSAaVjmx4TKCTMgyNKnKOD11Rwi6N96cK4HI1sw2JwG5GMf70ZOA30tk5BkU_Qrsd-7kKFf-WFOHTiCXzncCSRTQU0puyU_ezx5HQ48C-2vAbwFzCDfPFekgarQ-798LnHrjlAQJb_eZu81QfJi-DojklvaDnwloVnSOlaBaGdrHfSY6Sd7i31MfKHx0vcKHgLAtN2uJes6EdZ45Uul88aBd1F3syeqCwNx3FspT_7zAYy0LccABsoKFW6AU31BVMMU6TyIyzJzXWgYvw5cQfxKld7nYoPv13ncd7pLfNUlMyXCx57GFrVGhiRQLyTJkAY5A4od8vf3KN74fTmhZPU9G3lYESim7KvcIN8m8zZg5p5uj3tXbEragoimTYEAN4w9oJsnYTh9o01eJ-pq8D7-wlfCvfZqEOCuOqyb986MDsA5Ra7wG8bJtA8MPBDPv7Ygr2d3O3OwohK5PPOznTkf8LUtWXL9C2buxCUu0sxwvUN3Lcl925esGZ7zuwgnXcLI3AV03t1zTquzVfVeDdLcJi04ADVjtR-ovFZEOoZn0CEXw81LH9t6lEENMpYVT9P5ZkvjFXXdZePcM8cVLsfvpxvrqmb_FAiGxB_K3g3Pb-S1xUtR-q9fu-OSSiK4ZWRBwvJ74mU7J9S02u62dT6xFnj7kXzZmLH89FRpCPLzzeICaxR7udisNinOv-bj0SVGLriI-x2Cqul2OvFyDBBqvVMis5hjnwdX0nj2fj9lzOOBwmLVWle_mEoBkhdOM0nbQNfPm0l-6Cjj_ZSmaXiGnYhN-_M-d_RVAKg1CcJ8Zsw2f73MoEHZYbc7D1OReRiekoyKzYENsvSKARm1M8Dz2YbDFCnvNQoyk0PH5iTgQyGPLMpcwj2qRhldD7eRO0YNmcONxs2EG86ovpNsIk3aEyifAP4MWnuMvsxgVM89D10WoUyaRdRmXrMWXeVPqrhgUHdYRx5" nonce="496e4553319cb6cd096c1cf46f7a67e7" charset="UTF-8"></script></head><body>
+
+    
+    
+  
+  <div style="background-color:#f6f6f6;font-family:sans-serif;font-size:14px;line-height:1.4;margin:0;padding:0">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:100%;background-color:#f6f6f6">
+      <tr>
+        <td style="font-family:sans-serif;font-size:14px;vertical-align:top"> </td>
+        <td style="font-family:sans-serif;font-size:14px;vertical-align:top;display:block;Margin:0 auto;max-width:580px;padding:10px;width:580px">
+          <div style="display:block;Margin:0 auto;max-width:580px;padding:10px">
+
+            
+            <span style="color:transparent;display:none;height:0;max-height:0;max-width:0;overflow:hidden;width:0">Thank you very much for registering to participate in Data Tamasha 2019. </span>
+            <table style="border-collapse:separate;width:100%;background:#ffffff;border-radius:3px">
+
+              
+              <tr>
+                <td style="font-family:sans-serif;font-size:14px;vertical-align:top;padding:20px">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:100%">
+                    <td>
+                        <a href="https://datatamasha.dlab.or.tz/" target="_blank"><img src="https://dlab.or.tz/header.png" alt="" style="width:100%;max-width:600px;height:auto;margin:auto;display:block">
+                    </a>
+					<td>
+					<tr>
+                      <td style="font-family:sans-serif;font-size:14px;vertical-align:top">
+                        <h2 style="font-family:sans-serif;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify"><b><br>US launches Stanford Varsity Chapter on women in Data Science in Tanzania</b></h2>
+
+                        <!--Photo of the US Embassy Ambassador. Photo from Data Tamasha twitter account -->
+                        <figure>
+                          <img src="https://pbs.twimg.com/media/EK7J2bMWwAIhyZ5?format=jpg&name=small" alt="Girl in a jacket" width="550" height="400">
+                          <p></p>
+                          <figcaption><em><b>US Embassy Chargé d'Affaires, Inmi Patterson, giving her key note speech</b></em></figcaption>
+                        </figure>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">The US Embassy in Tanzania has launched a Chapter of Stanford University on Women in Data Science. </p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">We would like to confirm your participation in this exciting event and we look forward to your engagement in different sessions.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">Immer Patterson, US Embassy Charge de’ Affairs unveiled the move in Dar es Salaam on December 4, during her keynote speech at the first day of the Data Tamasha  at the UDSM School of ICT at Kijitonyama campus.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">Patterson stressed upon the need to take care of girls adding, “when things are right for adolescent girls, we are in a good country.”</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">She said healthy educated people are the key and foundation to development.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">According to Patterson, countries that put money in research are doing better.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">“I urge participants to be critical and not to accept anything especially on internet as it comes with a high price,” warned Patterson.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">For her part, a Pannelist Kelli Hynes said when talking of access to data one must be conscious of the messaging while getting the message to women, as they are the key players.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">Iku Lazaro from Ndoto Hub said the issue of context is vital in innovation saying society should always be driven by data for everything they do.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">Iku Lazaro from Ndoto Hub said the issue of context is vital in innovation saying society should always be driven by data for everything they do.</p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">Data Tamasha is a bi-annual flagship event that aims to bring together data and innovation ecosystem stakeholders from Tanzania, Africa and across the globe to display best practices and share experiences on how data and data driven innovation can contribute towards inclusive sustainable development.</p>
+
+                         <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">The Tanzania Data Lab along with Media Space Tanzania and other and local and global partners have organized the three days event. </p>
+
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px;text-align:justify">For updates on Data Tamasha 2019, please follow us through our social media handles and hashtags: <a href="https://twitter.com/dlabtz" target="_blank">@dlabTz</a>, <a href="https://twitter.com/dlabtz" target="_blank">@DataTamasha</a>, <a href="https://twitter.com/hashtag/DataTamasha2019?src=hash" target="_blank">#DataTamasha2019</a>, <a href="https://twitter.com/search?q=%23ThePowerOfData&amp;src=typd" target="_blank">#ThePowerOfData</a> and <a href="https://twitter.com/hashtag/DataRevolutionTZ?src=hash" target="_blank">#DataRevolutionTZ.</a><br><br> Once again, thank you very much and welcome to Data Tamasha 2019, we look forward to seeing you.</p>
+						
+                        <p style="font-family:sans-serif;font-size:14px;font-weight:normal;margin:0;Margin-bottom:15px">Best regards,<br>Tanzania Data Lab</p>
+						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-family:sans-serif;font-size:14px;vertical-align:top;padding-bottom:15px">
+                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:auto">
+                                  <tbody>
+                                    <tr>
+                                      <td style="font-family:sans-serif;font-size:14px;vertical-align:top;background-color:#e94e1b;border-radius:5px;text-align:center"> <a href="https://datatamasha.dlab.or.tz/" style="display:inline-block;color:#ffffff;background-color:#e94e1b;border:solid 1px #e94e1b;border-radius:5px;text-decoration:none;font-size:14px;font-weight:bold;margin:0;padding:12px 25px;text-transform:capitalize;border-color:#e94e1b" target="_blank">More info</a> </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </td></td></table>
+                </td>
+              </tr>
+
+            
+            </table>
+
+            
+            <div style="clear:both;Margin-top:10px;text-align:center;width:100%">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:100%">
+                <tr>
+                  <td style="font-family:sans-serif;vertical-align:top;padding-bottom:10px;padding-top:10px;font-size:12px;color:#999999;text-align:center">
+                    <span style="color:#999999;font-size:12px;text-align:center">Tanzania Data Lab, <br>College of ICT, UDSM - Kijitonyama Campus, <br>New Bagamoyo Road (adjacent TTCL), <br>Dar es Salaam, Tanzania.</span>
+                  </td>
+                </tr>
+              </table>
+            </div>
+            
+
+          
+          </div>
+        </td>
+        <td style="font-family:sans-serif;font-size:14px;vertical-align:top"> </td>
+      </tr>
+    </table>
+  </div>
+
+</body></html>
